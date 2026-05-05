@@ -22,5 +22,6 @@ Quality assurance and release practices are first-class, repeatable workflows. P
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+- [Ownership, Handoffs & Decision Making](octoacme-ownership-and-handoffs.md)
 
 Use these docs to onboard, guide your work, and align with OctoAcme project management best practices.
